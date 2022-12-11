@@ -1,5 +1,7 @@
 ## Natalia Murashko
 
+[cv portrait](portrait.png)
+
 * Cell: +375257486604
 * I’m living in Minsk, Belarus.
 * Email: tasha8999@mail.ru
